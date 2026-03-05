@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "project_name" {
   description = "Project name used in resource naming"
   type        = string
-  default     = "pipeline-opt"
+  default     = "pipeline-opt-sana"
 }
 
 variable "environment" {
